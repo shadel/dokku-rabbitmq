@@ -1,4 +1,4 @@
-# dokku rabbitmq [![Build Status](https://img.shields.io/circleci/project/github/dokku/dokku-rabbitmq.svg?branch=master&style=flat-square "Build Status")](https://circleci.com/gh/dokku/dokku-rabbitmq/tree/master) [![IRC Network](https://img.shields.io/badge/irc-freenode-blue.svg?style=flat-square "IRC Freenode")](https://webchat.freenode.net/?channels=dokku)
+# dokku rabbitmq [![Build Status](https://img.shields.io/circleci/project/github/shadel/dokku-rabbitmq.svg?branch=master&style=flat-square "Build Status")](https://circleci.com/gh/shadel/dokku-rabbitmq/tree/master) [![IRC Network](https://img.shields.io/badge/irc-freenode-blue.svg?style=flat-square "IRC Freenode")](https://webchat.freenode.net/?channels=dokku)
 
 Official rabbitmq plugin for dokku. Currently defaults to installing [rabbitmq 3.8.0-management](https://hub.docker.com/_/rabbitmq/).
 
@@ -11,7 +11,7 @@ Official rabbitmq plugin for dokku. Currently defaults to installing [rabbitmq 3
 
 ```shell
 # on 0.19.x+
-sudo dokku plugin:install https://github.com/dokku/dokku-rabbitmq.git rabbitmq
+sudo dokku plugin:install https://github.com/shadel/dokku-rabbitmq.git rabbitmq
 ```
 
 ## Commands
